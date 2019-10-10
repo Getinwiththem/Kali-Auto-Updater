@@ -13,19 +13,19 @@ To install, clone the repository:
 Move these files to: /usr/local/bin
 
      mv Setup.sh /usr/local/bin
-     mv Upgrader.sh /usr/local/bin
+     mv Updater.sh /usr/local/bin
 
 Make the files read/write/executable:
 
      chmod +rwx /usr/local/bin/Setup.sh
-     chmod +rwx /usr/local/bin/Update.sh
+     chmod +rwx /usr/local/bin/Updater.sh
      
       
 Setup the app:
 
-    ./Setup.sh 
+    Setup.sh 
       
-The next time you want to update, type in Terminal:
+Whenever you want to update just type Updater.sh
 
-    Update.sh 
+    Updater.sh 
 
