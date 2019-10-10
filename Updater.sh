@@ -75,6 +75,8 @@ echo " "
 clear
 sudo apt autoremove
 echo " "
+clear
+echo " "
 echo " "
 echo " │▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│"
 echo " │                     Auto Updater                   │"
