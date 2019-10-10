@@ -18,7 +18,7 @@ echo " │             Reddit @ u/anonym0us_user              │"
 echo " │▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│"
 echo " "
 echo " "
-sudo apt-get update #Retrives the package list from your listed repositories.
+sudo apt-get update -y #Retrives the package list from your listed repositories.
 echo " "
 clear
 echo " "
