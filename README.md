@@ -18,7 +18,7 @@ Move these files to: /usr/local/bin
 Make the files read/write/executable:
 
      chmod +rwx /usr/local/bin/Setup.sh
-      chmod +rwx /usr/local/bin/Upgrader.sh
+     chmod +rwx /usr/local/bin/Update.sh
      
       
 Setup the app:
