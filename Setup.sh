@@ -1,4 +1,5 @@
 #! /bin/bash
+clear
 alias yes='./Updater.sh'
 alias Updater='Updater.sh'
 shopt -s expand_aliases
