@@ -25,3 +25,6 @@ The next time you want to update, type in Terminal:
 
     Update.sh 
 
+#Will build this out to include extra tools and the options to select and choose from that save to a config file locally and get #called and ran during startup to update and run tasks silently in the background and other options. Please feel free to contribute! 
+
+#~Cheers!
