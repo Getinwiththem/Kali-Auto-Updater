@@ -73,6 +73,7 @@ fi
 sudo apt-get dist-upgrade -y
 echo " "
 clear
+sudo apt autoremove
 echo " "
 echo " "
 echo " │▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒│"
